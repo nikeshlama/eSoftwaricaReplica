@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eSoftwarica</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">About Us</string>
+    <string name="title_students">Add Students</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
